@@ -1,0 +1,8 @@
+# Student Performance Management System
+# Dependencies
+
+# No external dependencies for basic version
+# For advanced features, consider:
+# pandas>=2.0.0
+# scikit-learn>=1.3.0
+# matplotlib>=3.7.0
